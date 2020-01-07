@@ -1,0 +1,16 @@
+{
+  "showTitle": true,
+  "title": "Semantic Music Player",
+  "showDymoSelector": false,
+  "showPlaybackButtons": true,
+  "showDymoControls": true,
+  "showSensorSection": true,
+  "autoplay": false,
+  "loadLiveDymo": false,
+  "dymos": [
+    {
+      "name": "deadhead",
+      "saveFile": "assets/dymos/deadhead/save.json"
+    }
+  ]
+}
